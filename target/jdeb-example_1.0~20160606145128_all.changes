@@ -1,0 +1,22 @@
+Format: 1.8
+Date: Mon, 6 Jun 2016 14:51:30 +0100
+Source: jdeb-example
+Binary: jdeb-example
+Architecture: all
+Version: 1.0~20160606145128
+Distribution: unknown
+Urgency: low
+Maintainer: tcurdt@vafer.org
+Changed-By: tcurdt@vafer.org
+Description:
+ jdeb-example - description from pom
+Changes:
+ jdeb-example (0.9) unknown; urgency=low
+ .
+   * lots of fixes here
+Checksums-Sha1:
+ 8027a9ab2a40b0d5f8a742e21b7e94961a498ad4 3026 jdeb-example_1.0~20160606145128_all.deb
+Checksums-Sha256:
+ bb802e4eb3b7a57199f8500910fc41a2c031ed6581bda36cfc20f9bcec43f622 3026 jdeb-example_1.0~20160606145128_all.deb
+Files:
+ 1135251b86b38e31cbb6fa2fa340e959 3026 misc low jdeb-example_1.0~20160606145128_all.deb
